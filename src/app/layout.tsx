@@ -35,9 +35,7 @@ export default function RootLayout ({
 
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
           rel="stylesheet" />
-
-        <link rel="stylesheet" href="style.css" />
-        <title>Document</title>
+        <title>Coming soon!</title>
       </head>
       <body>
         <div className="container">
